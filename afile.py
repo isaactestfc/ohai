@@ -1,2 +1,2 @@
 print "Hello World"
-print "foo"
+print "foo bar"
